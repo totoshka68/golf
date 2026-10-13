@@ -1,0 +1,8 @@
+{
+  "name": "znamenskoye-golf",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Приложение гольф-клуба «Знаменский»: оболочка Android вокруг веб-интерфейса",
+  "scripts": { "sync": "node prepare.js && cap sync android" },
+  "dependencies": { "@capacitor/android": "^7.0.0", "@capacitor/cli": "^7.0.0", "@capacitor/core": "^7.0.0" }
+}

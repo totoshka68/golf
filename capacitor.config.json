@@ -1,0 +1,7 @@
+{
+  "appId": "ru.znamenskoye.golf",
+  "appName": "Знаменский",
+  "webDir": "www",
+  "android": { "backgroundColor": "#1B4D2E" },
+  "server": { "androidScheme": "https" }
+}
